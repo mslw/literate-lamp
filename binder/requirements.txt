@@ -1,1 +1,2 @@
 cowsay==4.0
+bash_kernel
