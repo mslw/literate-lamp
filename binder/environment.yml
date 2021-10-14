@@ -4,7 +4,7 @@ channels:
   - default
   - conda-forge
 
-dependencies;
+dependencies:
   - python=3.8.*
   - pip
   - datalad=0.15.*
