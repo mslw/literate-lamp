@@ -1,4 +1,0 @@
-cowsay==4.0
-datalad>=0.15.2
-pillow
-bash_kernel
